@@ -46,9 +46,9 @@ class _ChatTask(QRunnable):
 # ---------- palette: cool graphite, one seafoam accent, one blue for depth ----------
 CURRENT_VERSION = "1.0.3"
 # Use the RAW link to the version.json on GitHub
-UPDATE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/version.json"
+UPDATE_URL = "https://raw.githubusercontent.com/gleekapp/gleek/main/version.json"
 # The link to the ZIP of your main branch
-REPO_ZIP_URL = "https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip"
+REPO_ZIP_URL = "https://github.com/gleekapp/gleek/archive/refs/heads/main.zip"
 
 BG_TOP, BG_BOT = "#0B0F14", "#0E151D"
 SURFACE, SURF_HI = "#121A23", "#18222D"
