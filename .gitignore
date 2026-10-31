@@ -1,0 +1,17 @@
+﻿# Secrets
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Build folders
+build/
+dist/
+installer/
